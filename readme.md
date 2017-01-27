@@ -2,7 +2,7 @@
 
 > Calculate the minimum prefix length for an IPv4 subnet based on a desired number of host accounting for broadcast and network addresses
 >
-> *minPrefixLength(8) => 28*
+> **minPrefixLength(8) => 28**
 
 ## Install
 
