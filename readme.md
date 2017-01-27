@@ -1,4 +1,4 @@
-# min-prefix-length [![Build Status](https://travis-ci.org/brh55/min-prefix-length.svg?branch=master)](https://travis-ci.org/brh55/min-prefix-length) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square)](https://github.com/sindresorhus/xo)
+# min-prefix-length [![Build Status](https://img.shields.io/travis/brh55/min-prefix-length.svg?style=flat-square)](https://travis-ci.org/brh55/min-prefix-length) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square)](https://github.com/sindresorhus/xo)
 
 > Calculate the minimum prefix length for an IPv4 subnet based on a desired number of host accounting for broadcast and network addresses
 >
