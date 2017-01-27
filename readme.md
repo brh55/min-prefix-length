@@ -28,9 +28,7 @@ console.log(CIDR)
 
 Returns the minimum prefix length needed to support *n* of hosts accounting for the network and broadcast address
 
-#### n
-
-Type: `number`
+#### n | `<number>`
 
 *n* number of desired hosts
 

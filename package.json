@@ -1,6 +1,6 @@
 {
   "name": "min-prefix-length",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Calculate the minimum prefix length for an IPv4 subnet based on a desired number of hosts (excluding broadcast and address)",
   "license": "MIT",
   "repository": "brh55/min-prefix-length",
