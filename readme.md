@@ -33,7 +33,7 @@ Returns the minimum prefix length needed to support *n* of hosts accounting for 
 *n* number of desired hosts
 
 ## Related
-:computer: - [min-host-bits](https://github.com/brh55/min-host-bits) - Calculate minimum host bits needed for desired number of hosts
+[min-host-bits](https://github.com/brh55/min-host-bits) - :computer: Calculate minimum host bits needed for desired number of hosts
 
 ## License
 
