@@ -35,6 +35,8 @@ Returns the minimum prefix length needed to support *n* of hosts accounting for 
 ## Related
 [min-host-bits](https://github.com/brh55/min-host-bits) - :computer: Calculate minimum host bits needed for desired number of hosts
 
+[ip-class](https://github.com/brh55/ip-class) - :capital_abcd: Return the classful network class (A, B, C, D, E) of an IPv4 address
+
 ## License
 
 MIT © [Brandon Him](https://github.com/brh55)
